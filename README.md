@@ -1,1 +1,1 @@
-# Bicubic
+# Super-resolution
